@@ -1,4 +1,5 @@
 This is the final README for submission.
+Not all files uploaded successfully. (Not a Repository error; unsure why)
 
 ====================================
 
@@ -16,5 +17,6 @@ Professor Isac Artzi
 
 Submission Due Date:
 02/08/2026
+
 
 ====================================
