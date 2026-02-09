@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fa6a7541ccb3df3428e3f3bdbd4fb8eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8847722592473780890
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_0
+  - first:
+      213: 8159157925652844976
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_1
+  - first:
+      213: -6840729061251096900
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_2
+  - first:
+      213: 1705476581342078813
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_3
+  - first:
+      213: -1277985709221376386
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_4
+  - first:
+      213: -7600672710909271222
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_5
+  - first:
+      213: 2549482585517032559
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_6
+  - first:
+      213: -6824582761158503270
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_7
+  - first:
+      213: 8191089475787352327
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_8
+  - first:
+      213: 8544668943029741395
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_9
+  - first:
+      213: 3302931951171742869
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_10
+  - first:
+      213: 8590637900773480907
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_11
+  - first:
+      213: -1585217590292641448
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_12
+  - first:
+      213: -2720021789151587131
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_13
+  - first:
+      213: -4968410959400717138
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_14
+  - first:
+      213: 3558194164147913068
+    second: IsaiahC - MechanicImplementationFlowchart.drawio_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 853
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92199312dc69ca70800000000000000
+      internalID: 8847722592473780890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 853
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d9d087e62b3170800000000000000
+      internalID: 8159157925652844976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 853
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbedf6b9929d011a0800000000000000
+      internalID: -6840729061251096900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 853
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5764ab2ae11ba710800000000000000
+      internalID: 1705476581342078813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 853
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e85ddb4cea34ee0800000000000000
+      internalID: -1277985709221376386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 847
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a436f34807cf48690800000000000000
+      internalID: -7600672710909271222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 853
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6489ce57e4916320800000000000000
+      internalID: 2549482585517032559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 853
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9494ec03263a41a0800000000000000
+      internalID: -6824582761158503270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 853
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709eebfda789ca170800000000000000
+      internalID: 8191089475787352327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 687
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a990d123c49670800000000000000
+      internalID: 8544668943029741395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 39
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c21e22c1f56dd20800000000000000
+      internalID: 3302931951171742869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 39
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95c95d7a3183770800000000000000
+      internalID: 8590637900773480907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85908ee100d200ae0800000000000000
+      internalID: -1585217590292641448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 39
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c41c44189a804ad0800000000000000
+      internalID: -2720021789151587131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 39
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea433c26e88ac0bb0800000000000000
+      internalID: -4968410959400717138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsaiahC - MechanicImplementationFlowchart.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 9
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6187eb7dbe316130800000000000000
+      internalID: 3558194164147913068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IsaiahC - MechanicImplementationFlowchart.drawio_0: 8847722592473780890
+      IsaiahC - MechanicImplementationFlowchart.drawio_1: 8159157925652844976
+      IsaiahC - MechanicImplementationFlowchart.drawio_10: 3302931951171742869
+      IsaiahC - MechanicImplementationFlowchart.drawio_11: 8590637900773480907
+      IsaiahC - MechanicImplementationFlowchart.drawio_12: -1585217590292641448
+      IsaiahC - MechanicImplementationFlowchart.drawio_13: -2720021789151587131
+      IsaiahC - MechanicImplementationFlowchart.drawio_14: -4968410959400717138
+      IsaiahC - MechanicImplementationFlowchart.drawio_15: 3558194164147913068
+      IsaiahC - MechanicImplementationFlowchart.drawio_2: -6840729061251096900
+      IsaiahC - MechanicImplementationFlowchart.drawio_3: 1705476581342078813
+      IsaiahC - MechanicImplementationFlowchart.drawio_4: -1277985709221376386
+      IsaiahC - MechanicImplementationFlowchart.drawio_5: -7600672710909271222
+      IsaiahC - MechanicImplementationFlowchart.drawio_6: 2549482585517032559
+      IsaiahC - MechanicImplementationFlowchart.drawio_7: -6824582761158503270
+      IsaiahC - MechanicImplementationFlowchart.drawio_8: 8191089475787352327
+      IsaiahC - MechanicImplementationFlowchart.drawio_9: 8544668943029741395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
