@@ -20,3 +20,15 @@ Submission Due Date:
 
 
 ====================================
+
+USE INSTRUCTIONS:
+SPACE - Start Game
+ESC - Pause/Unpause
+G - Switch to GAMEOVER state
+Q - Switch to MENU state
+
+W/A/S/D - Move Player
+Touch all circles - Switch to VICTORY state
+
+====================================
+
